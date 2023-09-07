@@ -5,7 +5,7 @@ Bir Pentesting Toolu
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/morbius-scanner
+git clone https://github.com/morbius-os/morbius-scanner
 
 cd m-spammer
 
