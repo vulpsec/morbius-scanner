@@ -9,6 +9,8 @@ git clone https://github.com/morbius-os/morbius-scanner
 
 cd m-spammer
 
+cd m-spammer
+
 python3 m-scan-v4.py
 ```
 
